@@ -6,7 +6,7 @@ C++ software engineering trainee working on 5G RAN control plane software.
 Interested in systems programming, embedded software, computer architecture,
 and the boundary between software and hardware.
 
-## Selected work
+## Projects
 
 - **Circuit Simulator**, C++17 MNA-based DC/AC circuit simulator with Qt GUI
 - **Quantized Keyword Spotting**, hardware-constrained GRU keyword spotting
